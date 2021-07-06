@@ -1,74 +1,62 @@
-<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
-<style>
-
-body {
-  font-family: monospace;
-  background-color: white;
-  color: white;
+ body {
+  background-color: #5F9EA0;
+  color: #FFEBCD;
+  padding: 40px;
   text-align: center;
 }
 
- h1 {
-    font-family: monospace;
-    font-size: 60px;
-   text-align: center;
-   
-  }
-
- p {
-    font-size: 16px;
-    font-family: monospace;
-    
-  }
- h2 {
-    font-family: monospace;
-    font-size: 25px;
-    
-  }
- h3 {
-    font-family: monospace;
-    font-size: 25px;
-    
-  }
- h4 {
-    font-family: monospace;
-    font-size: 25px;
-   
-  }
-.larger-image {
-    width: 600px;
-  }
- h5 {
-    font-family: monospace;
-    font-size: 25px;
-   text-align: center;
-  }
-
-#main {
-    background-color: #ccc;
-    padding: 20px;
+div {
+  background-color: stateblue;
 }
- 
-img {
-  max-width: 100%;
-  height: auto;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
+
+h1 {
+  font-size: 80px;
   font-family: monospace;
+  color: #FFEBCD;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: monospace;
+  color: #FFEBCD;
+}
+p {
+    font-size: 25px;
+  font-family: monospace;
+  color: #FFEBCD;
+}
+  input {
+  font-size: ;
+  font-family: ;
   text-align: center;
-  }
-  
-  #title {
-  max-width: 100%;
-    height: auto;  
 }
-  @media (min-height: 350px) 
-    p{
-    font-size: 10px;
+  label {
+  text-align: center;
+  font-family: monospace;
+  font-size: 30px;
 }
 
- img { height: 300px; width: 300px; }
+  option {
+    font-size: 30px;
+    font-family: monospace;
+    color: ;
+    text-align: center;
+}
 
+textarea {
+  font-size: 16px;
+  font-family: monospace;
+  color: #FFEBCD;
+}
 
-
+span {
+  background-color: stateblue;
+}
+    .comment {
+        width: 40%;
+        height: 100px;
+        padding: 10px; url("/uploads/media/default/0001/01/a1d4caa225542c577689287a36f4209808b08c19.jpeg");
+        font: 1.4em/1.6em cursive;
+        color: #095484;
+      }
+      }
